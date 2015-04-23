@@ -1,0 +1,2 @@
+# ddtpim
+my django pim 

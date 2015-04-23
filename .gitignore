@@ -55,3 +55,20 @@ docs/_build/
 
 # PyBuilder
 target/
+
+log
+theme
+home
+
+#
+*.pui
+*.prj
+*.psd
+*.log
+*.ini
+*.db
+*.cmd
+*.bat
+
+local_settings.py
+local_urls.py
